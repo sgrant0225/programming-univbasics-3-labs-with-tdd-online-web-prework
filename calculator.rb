@@ -4,3 +4,4 @@ second_number = 5
 sum = 6 
 difference = -4
 product = 5 
+quotient = 0.2 
